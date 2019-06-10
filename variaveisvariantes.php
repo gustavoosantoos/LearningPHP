@@ -14,6 +14,8 @@
         echo $teste;
         echo $exemplo;
         echo $xunda;
+
+        #Porque diabos alguém teve essa ideia?
     ?>
 </div>
 </body>
