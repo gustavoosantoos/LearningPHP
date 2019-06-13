@@ -9,6 +9,11 @@
 
     <?php
         $x = array(1, 4, 10, 3, 0, 9);
+        $count = count($x);
+
+        print($count);
+        echo "<br/><br/>";
+
         print_r($x);
         echo "<br/><br/>";
 
